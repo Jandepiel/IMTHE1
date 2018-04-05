@@ -13,6 +13,8 @@ een	melodie	spelen	wanneer	de	AVR	aangezet	wordt.
 
 ## Aanpak en Uitvoering
 
+**Deze opdracht vervangt opdracht 4.3**
+
 In het boek was ik naar serial.Organ op zoek. Deze heb ik gevonden en daarna ook het internet opgezocht naar hoe deze precies werkt. De tonen waren niet in het boek meegeven. Dit komt omdat dit een lange lijst is. Om een toon te laten spelen, moet de functie playNote() worden aangeroepen. Hier kan elke noot worden ingevoerd. Daarnaast kan de functie rest() worden aangeroepen om een tussenpauze te krijgen tussen de noten. Door alle seriële communicatie weg te halen, kon ik het programma constant laten loopen en dus constant hetzelfde melodie laten spelen.
 
 Na het onderzoeken hoe het precies werkte, ben ik op zoek gegaan naar een melodie. De melodie die ik wou gebruiken was Funky Town van Lipps Inc. Een heel iconische melodie.  Op youtube kwam ik de piano noten tegen: https://www.youtube.com/watch?v=nbrUq0p-8HM
