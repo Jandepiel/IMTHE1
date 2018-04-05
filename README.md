@@ -17,7 +17,7 @@ Hardware	Interaction	101.	AVR	programmeren	met Eclipse	en	C++
 
 ## Bewijs van inlevering
 
-![Bewijs van inlevering - Afbeelding](https://raw.githubusercontent.com/Jandepiel/Imthe1/master/box.png)
+![Bewijs van inlevering - Afbeelding](https://raw.githubusercontent.com/Jandepiel/Imthe1/master/20180405_113216.jpg)
 
 
 
